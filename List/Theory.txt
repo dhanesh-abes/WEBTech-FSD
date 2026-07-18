@@ -1,3 +1,0 @@
-#two types list
-1. ordered
-2. unordered
